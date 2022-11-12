@@ -4,7 +4,7 @@
 
 - 🇪🇸 Barcelona, Spain
 - 🌇 +12 years of professional experience as web dev.
-- 📈 I've worked in high volume traffic websites and startup environments like Series.ly (more than 5 million recurrent users) and Tviso, among others.</p>
+- 📈 I've worked in high volume traffic websites and startup environments like Series.ly (more than 5 million recurrent users) and Tviso, among others.
 - 👨🏻‍💻 I'm working in remote as Senior Front-End at Guud, an Official Technological Partner, making tools that are used by big brands like Netflix, HBO, Adidas, Redbull, Disney, Volkswagen, Eurovision Song Contest and many more.
 - 🏝 Teacher of code in Tortuga Coders bootcamp in Thailand.
 

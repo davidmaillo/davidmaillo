@@ -2,12 +2,11 @@
 
 <h3 align="center">Full-stack web developer with special focus on Front-end (React / Next.js)</h3>
 
-- 🇪🇸 Barcelona, Spain
-- 🌇 +12 years of professional experience as web dev.
-- 📈 I've worked in high volume traffic websites and startup environments like Series.ly and Tviso (more than 5 million recurrent users)
-- 🏝 Teacher of code in Tortuga Coders bootcamp in Thailand.
-- 👨🏻‍💻 I'm working in remote as Senior Front-End at Guud, an official Twitter Tech Partner, making tools that are used by big brands like Netflix, HBO, Adidas, Redbull, Disney, Volkswagen, Eurovision Song Contest and many more.
-
+- 👨🏻‍💻 Lead Front-End at Guud, a Twitter's Official Tech Partner. We make tools that are used by big brands like Netflix, HBO, Adidas, Redbull, Disney, Volkswagen, Eurovision Song Contest and many more.
+- 🇪🇸 Barcelona, Spain.
+- 🌇 +13 years of professional experience as web dev.
+- 📈 In previous years, 've worked on high volume traffic websites and startup environments like Series.ly and Tviso (more than 5 million recurrent users).
+- 🏝 Teacher of code in Tortuga Coders bootcamp in Koh Phangan island, Thailand.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/davidmaillo"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>

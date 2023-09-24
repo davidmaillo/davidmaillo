@@ -10,5 +10,5 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/davidmaillo"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
-  <a href="https://twitter.com/davidmaillo"><img alt="Twitter" title="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
+  <a href="https://twitter.com/davidmaillo"><img alt="Twitter" title="Twitter" height="32" width="32" src="assets/x.svg"></a>
 </p>

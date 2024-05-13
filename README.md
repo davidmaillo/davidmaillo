@@ -4,8 +4,8 @@
 
 - 👨🏻‍💻 Lead Front-End at Guud, a Twitter's Official Tech Partner. We make tools that are used by big brands like Netflix, HBO, Disney, McDonalds, Adidas, Redbull, Volkswagen, Eurovision Song Contest and many more.
 - 🌇 +13 years of professional experience as web dev.
-- 📈 I've worked on high volume traffic websites and startup environments like Series.ly and Tviso (more than 5 million recurrent users).
-- 🏝 Been a teacher of code in Haiku Academy bootcamp in Koh Phangan island, Thailand.
+- 📈 Worked on high volume traffic websites and startup environments like Series.ly and Tviso (more than 5 million recurrent users).
+- 🏝 Served as a coding instructor at Haiku Academy Bootcamp on Koh Phangan Island, Thailand.
 
 
 <p align="center">

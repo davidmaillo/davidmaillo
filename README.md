@@ -2,10 +2,10 @@
 
 <h3 align="center">Full-stack web developer with special focus on Front-end (React / Next.js)</h3>
 
-- 👨🏻‍💻 Lead Front-End at Guud, a Twitter's Official Tech Partner. We make tools that are used by big brands like Netflix, HBO, Disney, McDonalds, Adidas, Redbull, Volkswagen, Eurovision Song Contest and many more.
+- 👨🏻‍💻 Lead Front-End at Guud, a Twitter's Official Tech Partner. We make tools that are used by big brands like Netflix, HBO, Disney, McDonalds, LEGO, Redbull, LaLiga, Volkswagen, Adidas, Eurovision Song Contest, and many more.
 - 🌇 +13 years of professional experience as web dev.
 - 📈 Worked on high volume traffic websites and startup environments like Series.ly and Tviso (more than 5 million recurrent users).
-- 🏝 Served as a coding instructor at Haiku Academy Bootcamp on Koh Phangan Island, Thailand.
+- 🏝 Been a code instructor at Tortuga Coders Bootcamp on Koh Phangan Island, Thailand.
 
 
 <p align="center">

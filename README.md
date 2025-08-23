@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://davidmaillo.com" target="_blank">David</a> 👋</h1>
 
-<h3 align="center">Full-stack web developer with special focus on Front-end (React / Next.js)</h3>
+<h3 align="center">Full-stack web developer with special focus on Frontend (💙 React and Next.js)</h3>
 
 - 👨🏻‍💻 Lead Frontend at Guud, a Twitter's Official Tech Partner. We make tools that are used by big brands like Netflix, HBO, Disney, McDonalds, LEGO, Redbull, LaLiga, Volkswagen, Adidas, Eurovision Song Contest, and many more.
 - 🌇 +14 years of professional experience as web dev.

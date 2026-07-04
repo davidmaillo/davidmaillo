@@ -3,7 +3,7 @@
 <h3 align="center">Full-stack web developer with special focus on Frontend (💙 React and Next.js)</h3>
 
 - 👨🏻‍💻 Lead Frontend at Square One Media. As a Twitter's Official Tech Partner we built sites and software for big brands like Netflix, HBO, Disney, McDonalds, LEGO, Redbull, LaLiga, Volkswagen, Adidas, Eurovision Song Contest, and many more.
-- 🌇 +14 years of professional experience as web dev.
+- 🌇 +15 years of professional experience as web dev.
 - 📈 Worked on high volume traffic websites and startup environments like Series.ly and Tviso (more than 5 million recurrent users).
 - 🏝 Been a coding instructor of a Full-Stack Bootcamp Course in Koh Phangan, Thailand.
 

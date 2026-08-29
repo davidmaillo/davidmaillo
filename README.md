@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://davidmaillo.com" target="_blank">David</a> 👋</h1>
 
-<h3 align="center">15+ years as a Full-stack web developer with special focus on Frontend (💙 React and Next.js)</h3>
+<h3 align="center">Full-stack web developer with special focus on Frontend (💙 React and Next.js)</h3>
 
 - 👨🏻‍💻 Lead Frontend at Square One Media. As a Twitter's Official Tech Partner we built sites and software for big brands like Netflix, HBO, Disney, McDonalds, LEGO, Redbull, LaLiga, Volkswagen, Adidas, Eurovision Song Contest, and many more.
 - 🌇 +15 years of professional experience as web dev.
